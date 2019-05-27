@@ -2,6 +2,13 @@
 .card-container{
     width:100%;
     border:1px solid black;
+    text-decoration:none;
+    color:black;
+}
+
+.anc > a{
+    text-decoration:none;
+    color:inherit;
 }
 
 .card-container img{
@@ -12,7 +19,7 @@
     padding:20px;
 }
 
-.card-content-container-content a{
+.card-content-container-content > a{
     text-decoration:none;
     color:lighgray;
 }

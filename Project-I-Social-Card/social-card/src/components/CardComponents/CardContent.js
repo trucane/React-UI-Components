@@ -14,7 +14,7 @@ function CardContent(){
                     React makes it painless to create interactive UIs.
                     Design simple views for each state in your application.
                 </p>
-                <a href="https://reactjs.org/">reactjs.org</a>
+                <h4>reactjs.org</h4>
             </div>
         </div>
     );
