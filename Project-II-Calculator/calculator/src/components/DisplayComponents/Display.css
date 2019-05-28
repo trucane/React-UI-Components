@@ -1,0 +1,17 @@
+
+.calculator-display{
+    width:100%;
+    background:red;
+}
+
+input{
+    width:inherit;
+    height:5em;
+    box-sizing: border-box;
+    padding-right:2em;
+    text-align:right;
+    background:black;
+    color:white;
+    font-size:1.3em;
+    border:1px solid gray;
+}
