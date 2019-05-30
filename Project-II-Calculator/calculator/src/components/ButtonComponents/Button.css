@@ -1,0 +1,42 @@
+.calc-container{
+    display:flex;
+    flex-wrap: wrap;
+    width:100%;
+}
+
+.number-side{
+    width:75%;
+}
+
+.operator-side{
+    width:25%;
+}
+
+
+
+
+.btn{
+    height:5em;
+    box-sizing: border-box;
+    font-size: 1.3em;
+}
+
+.action{
+    width:100%;
+}
+
+.number{
+    width:33.3%;
+}
+
+.operator{
+    width:100%;
+    background:red;
+    color:white;
+}
+
+.signs{
+    background:red;
+    color:white;
+}
+

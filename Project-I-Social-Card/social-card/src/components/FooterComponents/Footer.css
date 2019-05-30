@@ -1,0 +1,10 @@
+.footer-container{
+    display:flex;
+    width:100%;
+    padding:2em 0;
+    box-sizing: border-box;
+}
+
+.move{
+    padding-left:5em;
+}

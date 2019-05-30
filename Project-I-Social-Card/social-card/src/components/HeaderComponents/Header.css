@@ -1,1 +1,18 @@
 /* All styles for your header Components live here */
+
+
+
+
+.logo{
+    text-align:right;
+    padding-right:20px;
+}
+
+.logo img{
+    width:50px;
+}
+
+
+.header-title small{
+    color:gray;
+}
